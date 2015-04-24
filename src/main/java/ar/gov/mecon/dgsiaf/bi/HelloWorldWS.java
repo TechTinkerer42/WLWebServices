@@ -8,6 +8,9 @@ import javax.jws.WebService;
 serviceName = "HelloWorld")
 public class HelloWorldWS implements IHelloWorldWS{
 
+	/**
+	 * Saludo
+	 */
 	private static final String HELLO = "Hola ";
 
 	@Override
