@@ -6,7 +6,7 @@ import javax.jws.WebService;
 
 /**
  * @author mabaez
- *
+ *  Implementación de un Hola mudo
  */
 @WebService
 public interface IHelloWorldWS {
